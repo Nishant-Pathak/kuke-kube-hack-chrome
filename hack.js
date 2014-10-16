@@ -1,0 +1,1 @@
+var foo = function () { var i=0; var j = $0.children.length -1;  while(j>0){ if($0.childNodes[j].style.background != $0.childNodes[j-1].style.background){ console.log(j); $0.childNodes[j].click();}j--;}}
