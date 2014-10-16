@@ -1,4 +1,4 @@
-kuke-kube-hack-chrome
+kuku-kube-hack-chrome
 =====================
 
 semi automated script to score in kuku kube
